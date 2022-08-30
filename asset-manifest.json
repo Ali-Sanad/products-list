@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ali-Sanad/products-list.git/static/css/main.dc26f9ef.css",
+    "main.js": "/Ali-Sanad/products-list.git/static/js/main.abcf7949.js",
+    "index.html": "/Ali-Sanad/products-list.git/index.html",
+    "main.dc26f9ef.css.map": "/Ali-Sanad/products-list.git/static/css/main.dc26f9ef.css.map",
+    "main.abcf7949.js.map": "/Ali-Sanad/products-list.git/static/js/main.abcf7949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc26f9ef.css",
+    "static/js/main.abcf7949.js"
+  ]
+}
